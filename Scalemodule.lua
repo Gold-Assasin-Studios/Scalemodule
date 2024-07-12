@@ -1,4 +1,5 @@
 -- Please check the devforum post for more information
+-- https://devforum.roblox.com/t/scalemodule-scale-your-gui-with-just-a-script/3065623
 
 local scalemodule = {}
 
